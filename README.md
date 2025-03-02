@@ -3,8 +3,8 @@
 A simple non-responsive facebook login page built with HTML and CSS ([live preview](https://magar-gaurav.github.io/fb_/)).
 
 ## Technologies Used:
--HTML
--CSS
+   - HTML
+   - CSS
 
 1. Clone the repository:
    ```sh
