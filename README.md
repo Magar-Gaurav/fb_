@@ -8,4 +8,4 @@ A simple non-responsive facebook login page built with HTML and CSS ([live previ
 
 1. Clone the repository:
    ```sh
-   https://github.com/Magar-Gaurav/fb_ 
+     git clone https://github.com/Magar-Gaurav/fb_ 
