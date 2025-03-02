@@ -1,6 +1,6 @@
 # Basic Facebook Login Page
 
-A simple, responsive CV page built with HTML and CSS ([live preview](https://magar-gaurav.github.io/fb_/)).
+A simple non-responsive facebook login page built with HTML and CSS ([live preview](https://magar-gaurav.github.io/fb_/)).
 
 ## Technologies Used:
 -HTML
