@@ -1,7 +1,7 @@
-#Basic Facebook Login Page
-A simple but not responsive Login Page ([Live Preview](![image](https://magar-gaurav.github.io/fb_/)).
+# Basic Facebook Login Page
+A simple but not responsive Login Page ([Live Preview]((https://magar-gaurav.github.io/fb_/)).
 
-##Technologies Used:
+## Technologies Used:
 -HTML
 -CSS
 
